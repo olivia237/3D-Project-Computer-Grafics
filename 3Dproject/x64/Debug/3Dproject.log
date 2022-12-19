@@ -1,0 +1,40 @@
+﻿  3Dproject.cpp
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\CameraHandler.h(249,20): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\CameraHandler.h(159,8): warning C4101: 'intStr': variabile locale senza riferimenti
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(21,10): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(22,10): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(120,17): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(121,17): warning C4244: 'inizializzazione': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(164,26): warning C4244: '=': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(183,17): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(190,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(190,46): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(191,66): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(191,48): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(241,17): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(249,49): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(249,46): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(250,66): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(250,48): warning C4244: 'argomento': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(255,14): warning C4244: 'inizializzazione': conversione da 'double' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(277,19): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(281,11): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(282,11): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(288,10): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\MouseHandler.h(289,10): warning C4244: '=': conversione da 'int' a 'float'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(52,24): warning C4305: 'inizializzazione': troncamento da 'double' a 'float'
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(373,26): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(399,26): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(422,26): warning C4267: '=': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(647,25): warning C4244: 'argomento': conversione da 'float' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(648,17): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(649,12): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(653,22): warning C4244: 'argomento': conversione da 'float' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(654,12): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(655,17): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(680,90): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(700,96): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(742,40): warning C4267: 'inizializzazione': conversione da 'size_t' a 'int'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(762,97): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+C:\Users\Olivia\Desktop\computer Grafics\3Dproject\3Dproject\3Dproject.cpp(796,100): warning C4267: 'argomento': conversione da 'size_t' a 'GLsizei'. Possibile perdita di dati.
+  3Dproject.vcxproj -> C:\Users\Olivia\Desktop\computer Grafics\3Dproject\x64\Debug\3Dproject.exe
